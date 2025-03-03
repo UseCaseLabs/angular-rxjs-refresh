@@ -1,7 +1,9 @@
 Angular RxJS Refresh 🚀
+
 A simple Angular app demonstrating how to use RxJS Subjects to refresh a list after Create, Update, and Delete actions.
 
 📌 Features
+
 ✅ Fetches a list from JSONPlaceholder (mock API)
 ✅ Displays the list dynamically
 ✅ RxJS Subjects for live updates (without full-page reloads)
@@ -13,6 +15,7 @@ Angular (latest)
 RxJS (Subjects & Observables)
 Angular Material (UI components)
 JSONPlaceholder API (for mock data)
+
 🚀 Setup & Run
 1️⃣ Clone the repo
 
